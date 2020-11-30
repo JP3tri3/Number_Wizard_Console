@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5dc938c8be9d74082ad0da8e7363ed28
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NinjaLine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 937e625406c8b4b1880221c281958aed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
